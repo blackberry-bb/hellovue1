@@ -6,6 +6,7 @@
 <script>
 import HelloWorld from './components/HelloWorld.vue'
 
+// 주석처리
 export default {
   name: 'App',
   components: {
